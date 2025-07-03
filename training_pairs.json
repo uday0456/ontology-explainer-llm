@@ -1,0 +1,4 @@
+{
+  "input": "If X is a subclass of Y...",
+  "output": "X is also a subclass of Z due to transitivity."
+}
